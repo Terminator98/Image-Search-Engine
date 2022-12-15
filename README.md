@@ -8,6 +8,8 @@
 - `Gradio`
 
 ## How To Use:
+#### Step 0 : Add the images you want to the database folder
+
 #### Step 1 : Setting up the K of `KMeans` and no. of features of `SIFT` and reading images from database folder
 ``` python
 K = 256
