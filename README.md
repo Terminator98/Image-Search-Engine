@@ -57,5 +57,5 @@ demo = gr.Interface(test.test ,
  [gr.Image(shape=(400,400)) for i in range(5)])
 demo.launch()
 ```
-#### TO DO List:
+#### TO DO :
 - [ ] Make the user have the flexibility to retrieve based on some features (Color, Texture , etc.)
