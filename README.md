@@ -5,7 +5,7 @@
 - `BOW` (Bag Of visual Words)
 - `SIFT` Algorithm (Feature Extraction Algorithm)
 - `KMeans` Algorithm (To group the no. of features to speed up the retrieval process)
-- `Gradio`
+- `Gradio` Simple Interactive Web Interface 
 
 ## How To Use:
 #### Step 0 : Add the images you want to the database folder
