@@ -4,7 +4,7 @@
 ### Methods used in this project:
 - `BOW` (Bag Of visual Words)
 - `SIFT` Algorithm (Feature Extraction Algorithm)
-- `KMeans`
+- `KMeans` Algorithm (To group the no. of features to speed up the retrieval process)
 - `Gradio`
 
 ## How To Use:
