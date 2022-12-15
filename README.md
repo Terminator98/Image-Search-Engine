@@ -2,7 +2,7 @@
 ## It was a college project in Image Processing Course
 
 ### Methods used in this project:
-- `BOW` (Bag Of Words)
+- `BOW` (Bag Of visual Words)
 - `SIFT` Algorithm (Feature Extraction Algorithm)
 - `KMeans`
 - `Gradio`
