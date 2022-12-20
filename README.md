@@ -61,3 +61,4 @@ demo.launch()
 ```
 #### TO DO :
 - [ ] Make the user have the flexibility to retrieve based on some features (Color, Texture , etc.)
+- [ ] Make the user state the confidence threshold of retrieval 
